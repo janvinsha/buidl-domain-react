@@ -18,9 +18,9 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const tld = ".buidl";
 const CONTRACT_ADDRESS = "0x77556b05cEd56EeB8eDAE5a0e9cD2b4e9948534b";
 export const uauthOptions = {
-  clientID: "395e807b-6024-4280-91ad-7b867988dea8",
-  redirectUri: "https://unreal-market.netlify.app",
-  scope: "openid wallet email:optional humanity_check:optional",
+  clientID: "62478736-5e5c-4a1b-a916-56af4fdc503f",
+  redirectUri: "https://buidl-domains.netlify.app",
+  scope: "openid wallet",
 };
 
 let providerOptions = {
